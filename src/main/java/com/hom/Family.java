@@ -14,6 +14,7 @@ public class Family {
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入数据: ");
         System.out.println("版本1");
+        System.out.println("版本2");
 
         //请输入数据
         a = Integer.parseInt(scanner.next());
