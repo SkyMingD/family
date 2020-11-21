@@ -16,6 +16,7 @@ public class Family {
         System.out.println("版本1");
         System.out.println("版本2");
         System.out.println("创建分支dev");
+        System.out.println("主干添加");
 
         //请输入数据
         a = Integer.parseInt(scanner.next());
