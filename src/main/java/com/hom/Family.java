@@ -18,6 +18,7 @@ public class Family {
         System.out.println("创建分支dev");
         System.out.println("主干添加");
         System.out.println("分支添加");
+        System.out.println("测试push到github");
 
         //请输入数据
         a = Integer.parseInt(scanner.next());
